@@ -4,11 +4,11 @@ Bem-vindo ao Zingen! Este é um site desenvolvido para promover um aplicativo de
 
 ## Navegação 🧭
 
-- [Sobre o App](#sobre-o-app)
-- [Funcionalidades](#funcionalidades)
-- [Planos e Preços](#planos-e-preços)
-- [Download](#download)
-- [Footer](#footer)
+- [Sobre o App](#sobre-o-app-📱)
+- [Funcionalidades](#funcionalidades-🌟)
+- [Planos e Preços](#planos-e-preços-💰)
+- [Download](#download-📥)
+- [Footer](#footer-🔗)
 
 ## Sobre o App 📱
 
@@ -61,7 +61,7 @@ Integramos a fonte "Inter" do Google Fonts para garantir uma tipografia moderna 
 
 A estrutura de arquivos do projeto é organizada da seguinte forma:
 
-```
+```plaintext
 assets/
   icons/
   images/
